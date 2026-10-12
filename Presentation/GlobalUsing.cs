@@ -1,0 +1,13 @@
+﻿global using Application.Services;
+global using Asp.Versioning;
+global using Microsoft.AspNetCore.Authorization;
+global using Microsoft.AspNetCore.Mvc;
+global using Presentation.Filters;
+global using System.Security.Claims;
+global using Application.ResultPattern;
+global using System.Net;
+global using Application.Abstractions;
+global using Domain.Entities;
+global using Microsoft.AspNetCore.Mvc.Filters;
+global using Infrustructure;
+global using Scalar.AspNetCore;
